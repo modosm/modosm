@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working at [Diligent](https://www.diligent.com)
+- 📫 How to reach me: [mmodos@diligent.com](mailto:mmodos@diligent.com) or [hello@matemodos.com](mailto:hello@matemodos.com)
+- ⚡ Fun fact: still thinking about this one :)
